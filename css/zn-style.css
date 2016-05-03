@@ -49,3 +49,12 @@ li a{
     background-color: #101010;
     margin-bottom: 20px;
 }
+
+.news_pic{
+     float:left;
+     width: 15%;
+ }
+.news_content{
+    float: right;
+    width: 85%;
+}
