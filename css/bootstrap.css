@@ -1604,8 +1604,8 @@ pre code {
   }
 }
 .container-fluid {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 0px;   //old value = 15, modified by zn 2016-05-05
+  padding-left: 0px;    //old value = 15, modified by zn 2016-05-05
   margin-right: auto;
   margin-left: auto;
 }
