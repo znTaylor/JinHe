@@ -42,7 +42,7 @@ li a{
 
 /** nav block  **/
 .product{
-    width:1155px; margin:0 auto; position:relative; padding-top:20px;
+    width:1155px; margin:0 auto; position:relative;
 }
 .tit_bt{line-height:30px;}
 .tit_bt .l_txt{ float:left;}
