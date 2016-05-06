@@ -77,5 +77,10 @@ li a{
 .pro_qb ul li .sgw_img{ width:375px; height:240px;}
 .pro_qb ul li .sgw_img .box{width:375px; height:240px;}
 
-
-
+/*师资力量*/
+.teachers{ width:1155px; margin:0 auto; position:relative;}
+.teachers li{
+    float:left;
+    width: 277px;
+    height: 300px;
+}
