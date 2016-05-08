@@ -1,9 +1,9 @@
-#banner{
-    height: 80px;
-    width: 100%;
-    background-image: url("../img/banner.jpg");
-    background-repeat: no-repeat;
+*{
+    margin:0;
+    padding:0;
 }
+
+
 
 #nav-row{
     height: 60px;
@@ -72,16 +72,15 @@ li a{
 .t_wz .r_a a{ font-size:12px;  display:block; text-align:center; margin:15px 12px 30px 0; padding:1px 5px ; border:1px solid #666; border-radius:20px}
 .t_wz .r_a a:hover{border:1px solid #cf2b3b; color:#cf2b3b}
 .product2{
-    width:1200px; margin:0 auto; position:relative;
+    width:1155px; margin:0 auto;
 }
-.pro_qb{ position:relative;}
-.pro_qb ul{position:relative;left:-20px;}
+
 .pro_qb ul li{float:left; width:375px; overflow:hidden; margin:0px 15px 20px 0; height:360px}
 .pro_qb ul li .sgw_img{ width:375px; height:240px;}
 .pro_qb ul li .sgw_img .box{width:375px; height:240px;}
 
 /*师资力量*/
-.teachers{ width:1155px; margin:0 auto; position:relative;}
+.teachers{ width:1155px; margin:0 auto;}
 .teachers li{
     float:left;
     width: 277px;
