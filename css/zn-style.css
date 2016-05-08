@@ -84,6 +84,16 @@ li a{
 .teachers li{
     float:left;
     width: 277px;
-    height: 300px;
+
 }
-.news{width:1155px; margin:0 auto; position:relative;}
+.news{width:1155px; margin:0 auto; position:relative; bottom:-15px;}
+
+/*refactor*/
+.product-title p{
+    font-size: 18px;
+    padding-left: 10px;
+    background-color:#eeeeee;
+    line-height: 50px;
+    color:#ffffff;
+    border-radius: 20px 0 20px 0;
+}
