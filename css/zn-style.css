@@ -40,7 +40,8 @@ li a{
 .zn-footer{
     height: 240px;
     background-color: #101010;
-    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: small;
 }
 
 .clear{
@@ -97,8 +98,25 @@ li a{
 .product-title p{
     font-size: 18px;
     padding-left: 10px;
-    background-color:#eeeeee;
+    background-color:#9900cc;
     line-height: 50px;
-    color:#000000;
+    color:#ffffff;
     border-radius: 20px 0 20px 0;
 }
+
+.teachers li{
+    text-align: center;
+}
+
+.footer-block{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.footer-block2{
+    padding-top: 20px;
+}
+
+
+
+
